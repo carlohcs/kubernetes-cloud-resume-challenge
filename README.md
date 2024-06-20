@@ -5,3 +5,7 @@ Based on:
 
 - [https://cloudresumechallenge.dev/docs/extensions/kubernetes-challenge/](https://cloudresumechallenge.dev/docs/extensions/kubernetes-challenge/)
 - [https://github.com/cloudresumechallenge/projects/blob/main/projects/kubernetes/cloud-resume-challenge.md](https://github.com/cloudresumechallenge/projects/blob/main/projects/kubernetes/cloud-resume-challenge.md)
+
+Articles/Repositories:
+
+- [https://github.com/kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
